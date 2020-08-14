@@ -14,7 +14,7 @@
   font-weight:700 !important;
 }
 header {
-
+  
   background-color: $bgc-white;
   // display: flex;
   // flex-wrap: wrap;
@@ -376,7 +376,7 @@ header {
     color: #fff
   }
 }
-
+ 
 @media (min-width: 320px) and (max-width:767px) {
 .artist-name {
     display: inline-block;

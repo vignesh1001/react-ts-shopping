@@ -26,7 +26,7 @@ const Header = () => {
     <div className="geo">
       <p className="mb-0">
           <a className="languageAnchor" >
-            <span>geo</span>
+            <span>geo000</span>
           </a> |
           <a 
             className="languageAnchor"
